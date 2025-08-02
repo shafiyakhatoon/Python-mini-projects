@@ -1,4 +1,4 @@
-# Python Mini Projects 🔧🐍
+# Python Mini Projects 
 
 A curated collection of beginner-to-intermediate **Python projects** designed to strengthen programming fundamentals, improve problem-solving skills, and explore console-based interaction.
 
