@@ -12,21 +12,21 @@ Each project is **standalone** and focuses on different core concepts like:
 
 ---
 
-## 🚀 Projects Included
+##  Projects Included
 
-1. **🧮 Calculator** – A basic calculator supporting addition, subtraction, multiplication, and division. *(User input, functions)*
+1. ** Calculator** – A basic calculator supporting addition, subtraction, multiplication, and division. *(User input, functions)*
 2. **☕ Coffee Machine Simulator** – Simulates a coffee vending machine. Handles coin inputs, checks resources, and prints reports. *(Dictionaries, loops, functions)*
-3. **🎯 Guess the Number** – Guess a randomly generated number with Easy & Hard modes. *(Random numbers, loops)*
+3. ** Guess the Number** – Guess a randomly generated number with Easy & Hard modes. *(Random numbers, loops)*
 4. **👻 Hangman** – Classic word-guessing game with ASCII art visuals. *(Loops, conditionals, strings)*
-5. **🔼 Higher or Lower** – Guess which entity has more followers. *(Data handling, game loops)*
-6. **🔐 Password Generator** – Creates secure random passwords with letters, numbers, and symbols. *(Random module, lists)*
-7. **✊🖐✌ Rock Paper Scissors** – Console version of the traditional game. *(Random module, conditionals)*
-8. **🗣️ Silent Auction** – Simulates a bidding system where the highest bidder wins. *(Dictionaries, loops)*
-9. **🕵️ Caesar Cipher** – Encrypts and decrypts text using the Caesar Cipher. *(Basic cryptography, string manipulation)*
+5. ** Higher or Lower** – Guess which entity has more followers. *(Data handling, game loops)*
+6. ** Password Generator** – Creates secure random passwords with letters, numbers, and symbols. *(Random module, lists)*
+7. **✌ Rock Paper Scissors** – Console version of the traditional game. *(Random module, conditionals)*
+8. ** Silent Auction** – Simulates a bidding system where the highest bidder wins. *(Dictionaries, loops)*
+9. ** Caesar Cipher** – Encrypts and decrypts text using the Caesar Cipher. *(Basic cryptography, string manipulation)*
 
 ---
 
-## 📦 How to Run
+##How to Run
 
 **Requirements:** Python 3 installed on your system.
 
@@ -43,7 +43,7 @@ python3 calculator.py
 
 ---
 
-## 📌 About This Repository
+## 📌About This Repository
 
 These projects were built to:
 
