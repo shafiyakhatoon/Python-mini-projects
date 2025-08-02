@@ -44,4 +44,6 @@ Make sure you have Python 3 installed. Then:
 ```bash
 git clone https://github.com/shafiyakhatoon/Python-mini-projects.git
 cd Python-mini-projects
-python project_name.py
+python3 project_name.py
+
+
